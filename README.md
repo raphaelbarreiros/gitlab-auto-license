@@ -6,8 +6,8 @@ Tested on:
 - GitLab running on Docker
 
 ### Requirements
-[jq](https://jqlang.github.io/jq/download/ "jq") (apt-get install jq)
-GitHub token (to be placed on github-token file)
+- [jq](https://jqlang.github.io/jq/download/ "jq") (apt-get install jq)
+- GitHub token (to be placed on github-token file)
 
 ### How-to
 1. Copy the gitlab-auto-license.sh to your docker instance
